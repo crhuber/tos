@@ -1,4 +1,4 @@
-# Terms of Service
+## Terms of Service
 
 Last revised on [10-04-2022]
 
@@ -108,7 +108,7 @@ You agree that if [INTRA] does not exercise or enforce any legal right or remedy
 
 ---
 
-# Privacy Policy
+## Privacy Policy
 
 Your privacy is important to us. It is Intra's policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, and other sites we own and operate.
 
