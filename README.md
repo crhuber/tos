@@ -197,4 +197,12 @@ Contact Us
 For any questions or concerns regarding your privacy, you may contact us using the following details:
 
 Privacy
-privacy at intra.io
+privacy at intra dot io
+
+---
+
+## Support
+
+For any support queries please contact support:
+
+support at intra dot io
